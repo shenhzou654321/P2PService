@@ -1,0 +1,8 @@
+{
+	"deviceSN":"0000000001",
+	"bcsUri":"192.168.1.128",
+	"bcsPort":8080,
+	"heartBeatInterval":5000,
+	"apiKey":"test1",
+	"privateKey":"000000"
+}
